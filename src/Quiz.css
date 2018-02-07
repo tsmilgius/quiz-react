@@ -1,0 +1,83 @@
+html, body {
+    height: 100%;
+    background-color: grey;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+h1 {
+    text-align: center;
+}
+hr {
+    border: none;
+    height: 1px;
+    background-color: lightgrey;
+}
+.box {
+    width: 550px;
+    border: 1px solid lightgrey;
+    padding: 1em;
+    background-color: azure;
+}
+.question-index {
+    float: left;
+    clear: none;
+    color: grey;
+}
+.timer {
+    float: right;
+    clear: none;
+    color: grey;
+}
+.question {
+    clear: both;
+    text-align: left;
+}
+.answers {
+    float: left;
+    clear: none;
+    text-align: left;
+}
+.buttons {
+    height: 100%;
+    float: right;
+    clear: none;
+}
+.button {
+    display: block;
+    width: 60px;
+    height: 30px;
+    margin: 0px 0px 5px 0px;
+}
+.buttonRepeat {
+    width: 150px;
+    margin-bottom: 15px;
+}
+.info {
+    clear: both;
+    padding-left: 5px;
+    text-align: left;
+    white-space: pre-line;
+}
+.score {
+    text-align: center;
+    clear:both;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}

@@ -1,0 +1,110 @@
+[
+	{
+		"question": "Kaip vadinosi 1985 m, išleistas debiutinis J. Ivanauskaitės novelių rinkinys?",
+		
+		"answers": [
+			{
+				"answer": "Ragana ir lietus",
+				"correct": 0
+			},
+			{
+				"answer": "Pakalnučių metai",
+				"correct": 1
+			},
+			{
+				"answer": "Mėnulio vaikai",
+				"correct": 0
+			}
+		]
+	},	
+	{
+		"question": "Šis keturių raidžių žodis – ir moteriškos giminės įvardis, ir sinonimas žodžiui 'žmona'. Koks tai žodis?",
+		
+		"answers": [
+			{
+				"answer": "Boba",
+				"correct": 0
+			},
+			{
+				"answer": "Baba",
+				"correct": 0
+			},
+			{
+				"answer": "Pati",
+				"correct": 1
+			}
+		]
+	},	
+	{
+		"question": "Koks projektas skirtingais metais išgarsino šias atlikėjas: Viliją Matačiūnaitę, Agnę Petravičienę, Simoną Čiesnaitę?",
+		
+		"answers": [
+			{
+				"answer": "Dangus",
+				"correct": 0
+			},
+			{
+				"answer": "Lietuvos balsas",
+				"correct": 0
+			},
+			{
+				"answer": "Kelias į žvaigždes",
+				"correct": 1
+			}
+		]
+	},
+	{
+		"question": "Dviejų Alsėdžių valsčiuje gimusių brolių likimai išsiskyrė: vienas iš brolių 1922 m. buvo išrinktas pirmuoju Lenkijos prezidentu, kitas buvo Lietuvos Nepriklausomybės akto signataras. Parašykite brolių pavardę.",
+		
+		"answers": [
+			{
+				"answer": "Stulginskiai",
+				"correct": 0
+			},
+			{
+				"answer": "Šliūpai",
+				"correct": 0
+			},
+			{
+				"answer": "Narutavičiai",
+				"correct": 1
+			}
+		]
+	},
+	{
+		"question": "E-sporto komanda iš Lietuvos Gaminggear.eu 2013 m. sukūrė sensaciją, patekusi į vieno svarbiausių pasaulio esportų pasaulio čempionatą. Parašykite kompiuterinio žaidimo pavadinimą, kuriame tokių gerų rezultatų pasiekė ši komanda.",
+		
+		"answers": [
+			{
+				"answer": "League of Legends",
+				"correct": 1
+			},
+			{
+				"answer": "Counter strike",
+				"correct": 0
+			},
+			{
+				"answer": "Starcraft",
+				"correct": 0
+			}
+		]
+	},
+	{
+		"question": "Kokio dabartinio Seimo nario pavardė tokia pati kaip ir Škotijos nacionalinio augalo?",
+		
+		"answers": [
+			{
+				"answer": "Dagys",
+				"correct": 1
+			},
+			{
+				"answer": "Garšva",
+				"correct": 0
+			},
+			{
+				"answer": "Liepa",
+				"correct": 0
+			}
+		]
+	}
+]
